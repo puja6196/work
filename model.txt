@@ -1,0 +1,38 @@
+        
+
+
+
+        @NotNull
+	@Length(min=3,max=10)
+        private String customerCode;
+        @NotNull
+	@Length(min=3,max=30)
+	private String customerName;
+        @NotNull
+	@Length(min=5,max=100)
+	private String customerAddress1;
+        @Length(min=5,max=100)
+	private String customerAddress2;
+        @NotNull
+	@NumberFormat
+	private String customerPinCode;
+        @NotNull
+	@Email
+	@Length(min=5,max=100)
+	private String emailAddress;
+        @NotNull
+	@NumberFormat
+	private String contactNumber;
+        @NotNull
+	@Length(min=5,max=100)
+	private String primaryContactPerson;
+        @NotNull
+	@Length(min=1,max=10)
+	private String recordStatus;
+        @NotNull
+	@Length(min=1,max=10)
+	private String activeInactiveFlag;
+	private String createDate;
+	private String createdBy;
+	private String modifiedDate;
+	private String modifiedBy;

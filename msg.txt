@@ -1,0 +1,16 @@
+NotNull.customerCode=Le code client ne doit pas être nul
+Length.customerCode=La longueur devrait être comprise entre 2 et 10
+
+NotNull.customerName=Le nom du client ne doit pas être nul
+Length.customerName=La longueur devrait être entre 3-30
+
+
+Length.customerAddress1=La longueur devrait être entre 5-100
+Length.customerAddress2=La longueur devrait être entre 5-100
+Length.customerPincode=La longueur devrait être entre 3-6
+Email.emailaddress=Strictement le format d'email devrait être suivi
+Length.emailaddress=La longueur devrait être entre 5-100
+Min.contactNumber=La longueur devrait être min 10
+Length.primaryContactPerson=La longueur devrait être entre 5-100
+Length.recordStatus=La longueur doit être comprise entre 1 et 10
+Length.activeInactiveFlag=La longueur doit être comprise entre 1 et 10

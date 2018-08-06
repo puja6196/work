@@ -1,0 +1,15 @@
+customerCode=Code client
+customerName=Nom du client
+customerAddress1=Adresse du client1
+customerAddress2=Adresse du client2
+customerPincode=Client Pincode
+emailaddress=Adresse e-mail
+contactNumber=Numéro de contact
+primaryContactPerson=Personne-ressource principale
+recordStatus=Statut d'enregistrement
+activeInactiveFlag=Drapeau inactif actif
+createDate=créer un rendez-vous
+createdBy=Créé par
+modifiedDate=Date modifiée
+modifiedBy=Modifié par
+
